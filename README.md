@@ -1,4 +1,3 @@
-# apache-superset-embedded-sdk
 Simple React App with embedded dashboards
 <br>Based on this documentation: https://www.npmjs.com/package/@superset-ui/embedded-sdk?activeTab=readme
 
@@ -16,5 +15,6 @@ ENABLE_CORS = True
 ```
 You may need to switch your superset to HTTPS instead of HTTP if you want to use your dashboards on HTTPS sites.
 
-How it would look like with manual sizing:
-![Uploading pic.png…]()
+How it look like with manual sizing. This is generated iframe:
+![picture](https://github.com/vddenis/apache-superset-embedded-sdk/assets/79063405/6e924933-dd18-482d-aef3-33cb0dacb87d)
+
