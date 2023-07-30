@@ -14,4 +14,7 @@ GUEST_TOKEN_JWT_EXP_SECONDS = 300  # 5 minutes
 WTF_CSRF_ENABLED = False
 ENABLE_CORS = True
 ```
-And you should switch your superset to HTTPS instead of HTTP if you want to use your dashboards on HTTPS sites.
+You may need to switch your superset to HTTPS instead of HTTP if you want to use your dashboards on HTTPS sites.
+
+How it would look like with manual sizing:
+![Uploading pic.png…]()
