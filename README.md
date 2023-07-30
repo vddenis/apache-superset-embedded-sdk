@@ -13,6 +13,7 @@ GUEST_TOKEN_JWT_EXP_SECONDS = 300  # 5 minutes
 WTF_CSRF_ENABLED = False
 ENABLE_CORS = True
 ```
+And provide some changes to App.js.
 You may need to switch your superset to HTTPS instead of HTTP if you want to use your dashboards on HTTPS sites.
 
 How it look like with manual sizing. This is generated iframe:
