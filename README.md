@@ -1,4 +1,4 @@
-Simple React App with embedded dashboards
+Simple React App with Apache Superset embedded dashboards
 <br>Based on this documentation: https://www.npmjs.com/package/@superset-ui/embedded-sdk?activeTab=readme
 
 For embedding dashboards you need to implement these options to your superset-config.py:
