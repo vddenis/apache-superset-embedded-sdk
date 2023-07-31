@@ -16,6 +16,6 @@ ENABLE_CORS = True
 And provide some changes to App.js.
 You may need to switch your superset to HTTPS instead of HTTP if you want to use your dashboards on HTTPS sites.
 
-How it look like with manual sizing. This is generated iframe:
+How generated iframe will look like with manual sizing:
 ![picture](https://github.com/vddenis/apache-superset-embedded-sdk/assets/79063405/6e924933-dd18-482d-aef3-33cb0dacb87d)
 
